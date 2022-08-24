@@ -7,5 +7,10 @@
     "elements": "node ./elements.js"
   },
   "author": "Harfang, Flydexo",
-  "license": "NONE"
+  "license": "NONE",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.7.0"
+  }
 }
