@@ -4,51 +4,33 @@ const fs = require('fs')
 const config = require("./last.json");
 
 const ELEMENT = `
-    query($id: String!) {
-        getGlobalElement(id: $id){
-            imageCID
-        }
+  query{
+    getLatest(
+        page: 1
+    ) {
+      id
     }
+  }
 `
 
-const end = 100000
-
 async function fetchUsers(startId) {
-  for (i = startId; i < end; i++) {
-    const { data } = await axios({
-      url: 'https://api.harfang.app/graphql',
-      method: 'post',
-      headers: {
-        'content-type': 'application/json'
-      },
-      data: {
-        query: ELEMENT,
-        variables: { id: `${i}` }
-      }
-    })
-
-
-    const imageCID = data?.data?.getGlobalElement?.imageCID;
-    const newConfig = config;
-    newConfig.last_element_id = ethers.utils.hexlify(i);
-    fs.writeFileSync('last.json', JSON.stringify(newConfig))
-
-    if (!imageCID) {
-      console.log(`Next ID starts from: ${i}`)
-      return
+  const { data } = await axios({
+    url: 'https://api.harfang.app/graphql',
+    method: 'post',
+    headers: {
+      'content-type': 'application/json'
+    },
+    data: {
+      query: ELEMENT
     }
+  })
 
-    console.log(
-      `${i} => https://ipfs.harfang.app/ipfs/${imageCID}`
-    )
-    fs.appendFileSync(
-      'sitemaps/images.txt',
-      `https://ipfs.harfang.app/ipfs/${imageCID}\n`
-    )
-    fs.appendFileSync(
-        'sitemaps/cards.txt',
-        `https://harfang.app/e/${i}\n`
-    )
+  if(!!data.data.getLatest[0].id){
+    const lastId = data.data.getLatest[0].id;
+    for(let i = ethers.BigNumber.from(config.last_element_id).toNumber(); i < Number(lastId); i++){
+      fs.appendFileSync('./sitemaps/cards.txt', `https://harfang.app/e/${i}\n`)
+      fs.writeFileSync('./last.json', JSON.stringify({...config, last_element_id: ethers.utils.hexlify(i)}))
+    }
   }
 }
 
