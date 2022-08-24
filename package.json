@@ -1,0 +1,11 @@
+{
+  "name": "@harfang/sitemaps",
+  "version": "0.0.1",
+  "description": "A repo to generate the harfang's website sitemaps",
+  "scripts": {
+    "profiles": "node ./profiles.js",
+    "elements": "node ./elements.js"
+  },
+  "author": "Harfang, Flydexo",
+  "license": "NONE"
+}
