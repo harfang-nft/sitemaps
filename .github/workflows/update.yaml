@@ -19,7 +19,7 @@ jobs:
       - run: npm install
       - run: npm run profiles
       - run: npm run elements
-      - run: ./dupe.sh
+      - run: sudo sort sitemaps/users.txt | uniq -d
       - uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
