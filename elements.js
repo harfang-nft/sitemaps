@@ -29,7 +29,7 @@ async function fetchUsers(startId) {
     const lastId = data.data.getLatest[0].id;
     for(let i = ethers.BigNumber.from(config.last_element_id).toNumber(); i < Number(lastId); i++){
       fs.appendFileSync('./sitemaps/cards.txt', `https://harfang.app/e/${i}\n`)
-      fs.writeFileSync('./last.json', JSON.stringify({...config, last_element_id: ethers.utils.hexlify(i)}))
+      fs.writeFileSync('./last.json', JSON.stringify({...config, last_element_id: ethers.utils.hexlify(i+1)}))
     }
   }
 }
