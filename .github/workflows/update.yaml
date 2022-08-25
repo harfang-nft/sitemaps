@@ -20,6 +20,7 @@ jobs:
       - run: npm run profiles
       - run: npm run elements
       - run: sudo sort sitemaps/users.txt | uniq -d
+      - run: sudo sort sitemaps/cards.txt | uniq -d
       - uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
