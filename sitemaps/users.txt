@@ -17577,3 +17577,5 @@ https://harfang.app/u/ideax.test
 https://harfang.app/u/river.test
 https://harfang.app/u/exile.test
 https://harfang.app/u/assault.test
+https://harfang.app/u/consumer.test
+https://harfang.app/u/verdict.test
