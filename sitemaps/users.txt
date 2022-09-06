@@ -17701,3 +17701,8 @@ https://harfang.app/u/nick11.test
 https://harfang.app/u/thisisreserved.test
 https://harfang.app/u/bjornborg.test
 https://harfang.app/u/bert3testnet.test
+https://harfang.app/u/jennytest.test
+https://harfang.app/u/jimmyhendrix.test
+https://harfang.app/u/pitule.test
+https://harfang.app/u/pirlouis.test
+https://harfang.app/u/jiminicriiiiicket.test
