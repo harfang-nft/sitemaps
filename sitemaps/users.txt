@@ -17750,3 +17750,6 @@ https://harfang.app/u/qatest4217.test
 https://harfang.app/u/caramelll.test
 https://harfang.app/u/qatest5427.test
 https://harfang.app/u/qatest6197.test
+https://harfang.app/u/bbxer.test
+https://harfang.app/u/qatest2377.test
+https://harfang.app/u/qatest4177.test
