@@ -17841,3 +17841,6 @@ https://harfang.app/u/qatest9709.test
 https://harfang.app/u/qatest6639.test
 https://harfang.app/u/qatest7709.test
 https://harfang.app/u/qatest8479.test
+https://harfang.app/u/qatest3459.test
+https://harfang.app/u/qatest8149.test
+https://harfang.app/u/qatest1939.test
