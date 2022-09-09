@@ -17823,3 +17823,6 @@ https://harfang.app/u/qatest7079.test
 https://harfang.app/u/qatest8759.test
 https://harfang.app/u/qatest4449.test
 https://harfang.app/u/qatest9559.test
+https://harfang.app/u/qatest09.test
+https://harfang.app/u/qatest1869.test
+https://harfang.app/u/qatest6009.test
