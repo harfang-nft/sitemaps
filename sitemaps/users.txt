@@ -17887,3 +17887,5 @@ https://harfang.app/u/jmssisi.test
 https://harfang.app/u/kriptobetyar.test
 https://harfang.app/u/qatest16812.test
 https://harfang.app/u/qatest59812.test
+https://harfang.app/u/qatest15312.test
+https://harfang.app/u/qatest80612.test
