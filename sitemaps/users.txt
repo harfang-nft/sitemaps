@@ -17892,3 +17892,9 @@ https://harfang.app/u/qatest80612.test
 https://harfang.app/u/qatest77412.test
 https://harfang.app/u/qatest27412.test
 https://harfang.app/u/qatest27512.test
+https://harfang.app/u/qatest52312.test
+https://harfang.app/u/fisrid.test
+https://harfang.app/u/qatest44712.test
+https://harfang.app/u/qatest56312.test
+https://harfang.app/u/qatest43612.test
+https://harfang.app/u/qatest86712.test
