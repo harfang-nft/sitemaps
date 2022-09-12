@@ -17877,3 +17877,5 @@ https://harfang.app/u/qatest81412.test
 https://harfang.app/u/qatest4712.test
 https://harfang.app/u/qatest2412.test
 https://harfang.app/u/web3wes.test
+https://harfang.app/u/ligmexdev2.test
+https://harfang.app/u/ligmexdev.test
