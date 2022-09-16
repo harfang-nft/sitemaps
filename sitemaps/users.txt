@@ -18072,3 +18072,5 @@ https://harfang.app/u/1663318380808.test
 https://harfang.app/u/1663318434427.test
 https://harfang.app/u/1663318594980.test
 https://harfang.app/u/1663318630589.test
+https://harfang.app/u/1663318727536.test
+https://harfang.app/u/0x8ea9fa815f32e54075.test
