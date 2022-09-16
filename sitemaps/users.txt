@@ -18082,3 +18082,5 @@ https://harfang.app/u/fasdfasdf345r.test
 https://harfang.app/u/fasdfasdfasdf.test
 https://harfang.app/u/thisshouldbelatest.test
 https://harfang.app/u/anotherone.test
+https://harfang.app/u/latestone.test
+https://harfang.app/u/andanotherone1.test
