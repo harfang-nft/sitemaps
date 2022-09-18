@@ -18275,3 +18275,4 @@ https://harfang.app/u/qatest19418.test
 https://harfang.app/u/qatest52518.test
 https://harfang.app/u/qatest85518.test
 https://harfang.app/u/qatest17318.test
+https://harfang.app/u/krubot.test
