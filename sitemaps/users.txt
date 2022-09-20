@@ -18353,3 +18353,5 @@ https://harfang.app/u/sarahzzz.test
 https://harfang.app/u/sarahzzz2.test
 https://harfang.app/u/0x87testinghandle.test
 https://harfang.app/u/tinyghost23.test
+https://harfang.app/u/qatest320.test
+https://harfang.app/u/qatest45020.test
