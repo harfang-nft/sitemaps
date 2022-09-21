@@ -18397,3 +18397,8 @@ https://harfang.app/u/ingig.test
 https://harfang.app/u/0x47e0.burned
 https://harfang.app/u/frenly0x1cc8b3da.test
 https://harfang.app/u/frenly0x9a5d9e40.test
+https://harfang.app/u/0x47e3.burned
+https://harfang.app/u/0x47e4.burned
+https://harfang.app/u/0x47e5.burned
+https://harfang.app/u/0x47e6.burned
+https://harfang.app/u/counting_crowds.test
