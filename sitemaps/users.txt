@@ -18361,3 +18361,5 @@ https://harfang.app/u/jnvdx.test
 https://harfang.app/u/hello111111.test
 https://harfang.app/u/0x47bd.burned
 https://harfang.app/u/frenly0x2c45cc03.test
+https://harfang.app/u/foxsama.test
+https://harfang.app/u/frenly0xce26ce7b.test
