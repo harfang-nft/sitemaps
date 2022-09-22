@@ -18437,3 +18437,7 @@ https://harfang.app/u/qatest62722.test
 https://harfang.app/u/fixxxxsrid.test
 https://harfang.app/u/fixxxdxsrid.test
 https://harfang.app/u/qatest24222.test
+https://harfang.app/u/0xbc9d.test
+https://harfang.app/u/fixxxdxsfffrid.test
+https://harfang.app/u/frenly0x1e2d0b17.test
+https://harfang.app/u/hello33.test
