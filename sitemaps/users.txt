@@ -18428,3 +18428,5 @@ https://harfang.app/u/cvbfb.test
 https://harfang.app/u/qatest4722.test
 https://harfang.app/u/qatest18922.test
 https://harfang.app/u/qatest19122.test
+https://harfang.app/u/qatest76122.test
+https://harfang.app/u/qatest65022.test
