@@ -18551,3 +18551,7 @@ https://harfang.app/u/suhelkap.test
 https://harfang.app/u/xxx000.test
 https://harfang.app/u/lens0001.test
 https://harfang.app/u/coffeesmores.test
+https://harfang.app/u/testlens.test
+https://harfang.app/u/demodemo.test
+https://harfang.app/u/bigdemo.test
+https://harfang.app/u/lenskitdemo.test
