@@ -18544,3 +18544,5 @@ https://harfang.app/u/demolensf.test
 https://harfang.app/u/testabc.test
 https://harfang.app/u/borrower_user.test
 https://harfang.app/u/denonames.test
+https://harfang.app/u/handlebar.test
+https://harfang.app/u/starwar.test
