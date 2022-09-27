@@ -18597,3 +18597,16 @@ https://harfang.app/u/funkyhandlebaby7.test
 https://harfang.app/u/qatest47827.test
 https://harfang.app/u/qatest37527.test
 https://harfang.app/u/julientest.test
+https://harfang.app/u/albert-handle.test
+https://harfang.app/u/lensehandle_albert.test
+https://harfang.app/u/lense_handle_albert.test
+https://harfang.app/u/lense_handle_albert-1.test
+https://harfang.app/u/lense_handle_albert-.test
+https://harfang.app/u/lense_handle_albert_.test
+https://harfang.app/u/lense_handle_albert_1234.test
+https://harfang.app/u/lense_handle_albert_123.test
+https://harfang.app/u/lense_handle_albert_1.test
+https://harfang.app/u/lense_handle_albert_123412.test
+https://harfang.app/u/lense_handle_albert_12341.test
+https://harfang.app/u/lense_handle_albert_12.test
+https://harfang.app/u/albert_12341234.test
