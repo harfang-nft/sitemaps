@@ -18657,3 +18657,4 @@ https://harfang.app/u/lenssihandlemetadataok.test
 https://harfang.app/u/sihandle2.test
 https://harfang.app/u/sihandle3.test
 https://harfang.app/u/qatest98129.test
+https://harfang.app/u/qatest61729.test
