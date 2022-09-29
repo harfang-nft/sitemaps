@@ -18647,3 +18647,7 @@ https://harfang.app/u/aadsfansdhandleemetadata2.test
 https://harfang.app/u/handlesmetadata.test
 https://harfang.app/u/handlesmetadata2.test
 https://harfang.app/u/qatest6029.test
+https://harfang.app/u/asfde34f.test
+https://harfang.app/u/handleadssemeta.test
+https://harfang.app/u/aefwef2e.test
+https://harfang.app/u/qatest22429.test
