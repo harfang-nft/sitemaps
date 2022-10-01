@@ -18715,3 +18715,5 @@ https://harfang.app/u/qatest23630.test
 https://harfang.app/u/qatest51230.test
 https://harfang.app/u/nfmdev.test
 https://harfang.app/u/qatest7121.test
+https://harfang.app/u/qatest9071.test
+https://harfang.app/u/qatest8121.test
