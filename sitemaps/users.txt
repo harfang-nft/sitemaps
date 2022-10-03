@@ -18742,3 +18742,6 @@ https://harfang.app/u/qatest3733.test
 https://harfang.app/u/qatest7833.test
 https://harfang.app/u/petermahn.test
 https://harfang.app/u/mybaby.test
+https://harfang.app/u/postponed3.test
+https://harfang.app/u/qatest5133.test
+https://harfang.app/u/qatest3553.test
