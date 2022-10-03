@@ -18728,3 +18728,4 @@ https://harfang.app/u/dev_jhv.test
 https://harfang.app/u/454654.test
 https://harfang.app/u/gabis.test
 https://harfang.app/u/deeptomcruise.test
+https://harfang.app/u/harfang_tutorials.test
