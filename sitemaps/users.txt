@@ -18731,3 +18731,5 @@ https://harfang.app/u/deeptomcruise.test
 https://harfang.app/u/harfang_tutorials.test
 https://harfang.app/u/handleimag.test
 https://harfang.app/u/handlebackground.test
+https://harfang.app/u/qatest1273.test
+https://harfang.app/u/qatest9413.test
