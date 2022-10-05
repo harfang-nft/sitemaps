@@ -18790,3 +18790,7 @@ https://harfang.app/u/qatest9635.test
 https://harfang.app/u/frenly0xe7b5b351.test
 https://harfang.app/u/frenly0x148a5804.test
 https://harfang.app/u/bikal.test
+https://harfang.app/u/qatest2705.test
+https://harfang.app/u/qatest2975.test
+https://harfang.app/u/qatest1555.test
+https://harfang.app/u/qatest3425.test
