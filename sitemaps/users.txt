@@ -18794,3 +18794,5 @@ https://harfang.app/u/qatest2705.test
 https://harfang.app/u/qatest2975.test
 https://harfang.app/u/qatest1555.test
 https://harfang.app/u/qatest3425.test
+https://harfang.app/u/qatest2275.test
+https://harfang.app/u/qatest1965.test
