@@ -18860,3 +18860,5 @@ https://harfang.app/u/adsfasdad.test
 https://harfang.app/u/asdfasdfd.test
 https://harfang.app/u/free-art.test
 https://harfang.app/u/space-ninja.test
+https://harfang.app/u/qatest3626.test
+https://harfang.app/u/qatest4736.test
