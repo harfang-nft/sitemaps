@@ -18825,3 +18825,5 @@ https://harfang.app/u/qatest2096.test
 https://harfang.app/u/individualguy.test
 https://harfang.app/u/rmik-test.test
 https://harfang.app/u/example2.test
+https://harfang.app/u/qatest6116.test
+https://harfang.app/u/dennis.test
