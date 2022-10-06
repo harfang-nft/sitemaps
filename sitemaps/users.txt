@@ -18822,3 +18822,6 @@ https://harfang.app/u/1665043345646_masterfile.test
 https://harfang.app/u/bbots_2839289.test
 https://harfang.app/u/amadeus.test
 https://harfang.app/u/qatest2096.test
+https://harfang.app/u/individualguy.test
+https://harfang.app/u/rmik-test.test
+https://harfang.app/u/example2.test
