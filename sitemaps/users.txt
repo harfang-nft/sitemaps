@@ -18863,3 +18863,6 @@ https://harfang.app/u/space-ninja.test
 https://harfang.app/u/qatest3626.test
 https://harfang.app/u/qatest4736.test
 https://harfang.app/u/gianellimarcopt.test
+https://harfang.app/u/dev_chaochaochao.test
+https://harfang.app/u/dev_chaochao1.test
+https://harfang.app/u/foobar2444.test
