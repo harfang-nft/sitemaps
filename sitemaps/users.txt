@@ -18866,3 +18866,11 @@ https://harfang.app/u/gianellimarcopt.test
 https://harfang.app/u/dev_chaochaochao.test
 https://harfang.app/u/dev_chaochao1.test
 https://harfang.app/u/foobar2444.test
+https://harfang.app/u/qatest6067.test
+https://harfang.app/u/qatest5537.test
+https://harfang.app/u/qatest3257.test
+https://harfang.app/u/qatest4867.test
+https://harfang.app/u/qatest4307.test
+https://harfang.app/u/qatest6107.test
+https://harfang.app/u/qatest517.test
+https://harfang.app/u/qatest2967.test
