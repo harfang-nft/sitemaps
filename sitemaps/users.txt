@@ -18987,3 +18987,6 @@ https://harfang.app/u/viper_chao3.test
 https://harfang.app/u/linzyhu-2.test
 https://harfang.app/u/bothimagesipfs.test
 https://harfang.app/u/bothimagesipfs2.test
+https://harfang.app/u/sebblue.test
+https://harfang.app/u/df-art-2.test
+https://harfang.app/u/df-art-3.test
