@@ -19095,3 +19095,6 @@ https://harfang.app/u/roberto_store.test
 https://harfang.app/u/5f1atest.test
 https://harfang.app/u/df-art-8.test
 https://harfang.app/u/qatest46911.test
+https://harfang.app/u/qatest96411.test
+https://harfang.app/u/qatest26311.test
+https://harfang.app/u/qatest96611.test
