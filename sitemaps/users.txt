@@ -19086,3 +19086,6 @@ https://harfang.app/u/qatest18011.test
 https://harfang.app/u/final.test
 https://harfang.app/u/qatest80211.test
 https://harfang.app/u/qatest96311.test
+https://harfang.app/u/qatest33111.test
+https://harfang.app/u/qatest30711.test
+https://harfang.app/u/qatest50111.test
