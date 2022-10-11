@@ -19089,3 +19089,6 @@ https://harfang.app/u/qatest96311.test
 https://harfang.app/u/qatest33111.test
 https://harfang.app/u/qatest30711.test
 https://harfang.app/u/qatest50111.test
+https://harfang.app/u/ludo24.test
+https://harfang.app/u/testbykalyan1.test
+https://harfang.app/u/roberto_store.test
