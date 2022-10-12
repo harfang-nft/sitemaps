@@ -19196,3 +19196,17 @@ https://harfang.app/u/qatest6912.test
 https://harfang.app/u/qatest7112.test
 https://harfang.app/u/qatest98212.test
 https://harfang.app/u/qatest912.test
+https://harfang.app/u/qatest63912.test
+https://harfang.app/u/qatest64412.test
+https://harfang.app/u/qatest77712.test
+https://harfang.app/u/qatest17812.test
+https://harfang.app/u/qatest20412.test
+https://harfang.app/u/qatest14112.test
+https://harfang.app/u/qatest17712.test
+https://harfang.app/u/qatest88312.test
+https://harfang.app/u/qatest61212.test
+https://harfang.app/u/qatest61112.test
+https://harfang.app/u/qatest88512.test
+https://harfang.app/u/qatest61012.test
+https://harfang.app/u/qatest88412.test
+https://harfang.app/u/jefftest.test
