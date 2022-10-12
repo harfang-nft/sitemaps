@@ -19103,3 +19103,6 @@ https://harfang.app/u/qatest74811.test
 https://harfang.app/u/qatest84111.test
 https://harfang.app/u/curles.test
 https://harfang.app/u/dexter.test
+https://harfang.app/u/m3tatr0n.test
+https://harfang.app/u/lester_bbot_1.test
+https://harfang.app/u/lester_bbot_4000.test
