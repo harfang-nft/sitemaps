@@ -19189,3 +19189,10 @@ https://harfang.app/u/qatest59612.test
 https://harfang.app/u/qatest27912.test
 https://harfang.app/u/qatest58512.test
 https://harfang.app/u/mgtest.test
+https://harfang.app/u/qatest4512.test
+https://harfang.app/u/qatest9812.test
+https://harfang.app/u/qatest99412.test
+https://harfang.app/u/qatest6912.test
+https://harfang.app/u/qatest7112.test
+https://harfang.app/u/qatest98212.test
+https://harfang.app/u/qatest912.test
