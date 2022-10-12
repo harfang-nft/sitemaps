@@ -19135,3 +19135,5 @@ https://harfang.app/u/qatest7612.test
 https://harfang.app/u/qatest61712.test
 https://harfang.app/u/qatest8612.test
 https://harfang.app/u/qatest94612.test
+https://harfang.app/u/olehmell.test
+https://harfang.app/u/american-giraffe-test.test
