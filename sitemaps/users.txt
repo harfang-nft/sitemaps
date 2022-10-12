@@ -19211,3 +19211,4 @@ https://harfang.app/u/qatest61012.test
 https://harfang.app/u/qatest88412.test
 https://harfang.app/u/jefftest.test
 https://harfang.app/u/ludo25.test
+https://harfang.app/u/mgtest2.test
