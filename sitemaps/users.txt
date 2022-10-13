@@ -19240,3 +19240,10 @@ https://harfang.app/u/qatest32113.test
 https://harfang.app/u/qatest33413.test
 https://harfang.app/u/frenly0xa7b62faa.test
 https://harfang.app/u/long-desc-test-1.test
+https://harfang.app/u/qatest84613.test
+https://harfang.app/u/qatest9713.test
+https://harfang.app/u/qatest84513.test
+https://harfang.app/u/qatest84713.test
+https://harfang.app/u/qatest9913.test
+https://harfang.app/u/qatest12113.test
+https://harfang.app/u/yoghurt.test
