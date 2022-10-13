@@ -19230,3 +19230,11 @@ https://harfang.app/u/qatest24813.test
 https://harfang.app/u/qatest36013.test
 https://harfang.app/u/qatest25113.test
 https://harfang.app/u/temp_bbot_4006.test
+https://harfang.app/u/qatest25913.test
+https://harfang.app/u/qatest96513.test
+https://harfang.app/u/qatest25813.test
+https://harfang.app/u/qatest26013.test
+https://harfang.app/u/qatest35613.test
+https://harfang.app/u/qatest33513.test
+https://harfang.app/u/qatest32113.test
+https://harfang.app/u/qatest33413.test
