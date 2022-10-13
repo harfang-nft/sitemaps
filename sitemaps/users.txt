@@ -19247,3 +19247,7 @@ https://harfang.app/u/qatest84713.test
 https://harfang.app/u/qatest9913.test
 https://harfang.app/u/qatest12113.test
 https://harfang.app/u/yoghurt.test
+https://harfang.app/u/qatest18713.test
+https://harfang.app/u/qatest36713.test
+https://harfang.app/u/qatest18913.test
+https://harfang.app/u/qatest36913.test
