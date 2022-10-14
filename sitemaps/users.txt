@@ -19443,3 +19443,10 @@ https://harfang.app/u/qatest53714.test
 https://harfang.app/u/qatest53414.test
 https://harfang.app/u/qatest53314.test
 https://harfang.app/u/qatest57314.test
+https://harfang.app/u/qatest44114.test
+https://harfang.app/u/qatest32914.test
+https://harfang.app/u/qatest49714.test
+https://harfang.app/u/qatest29414.test
+https://harfang.app/u/qatest49414.test
+https://harfang.app/u/qatest66814.test
+https://harfang.app/u/qatest43614.test
