@@ -19534,3 +19534,4 @@ https://harfang.app/u/qatest43314.test
 https://harfang.app/u/qatest52714.test
 https://harfang.app/u/qatest52514.test
 https://harfang.app/u/frenly0x44c384ed.test
+https://harfang.app/u/decatest.test
