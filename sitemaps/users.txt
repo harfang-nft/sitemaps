@@ -19610,3 +19610,4 @@ https://harfang.app/u/qatest47417.test
 https://harfang.app/u/qatest63517.test
 https://harfang.app/u/qatest47317.test
 https://harfang.app/u/qatest63617.test
+https://harfang.app/u/krolik.test
