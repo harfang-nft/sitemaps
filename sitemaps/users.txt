@@ -19603,3 +19603,10 @@ https://harfang.app/u/qatest94417.test
 https://harfang.app/u/qatest13717.test
 https://harfang.app/u/qatest94517.test
 https://harfang.app/u/qatest13617.test
+https://harfang.app/u/qatest47217.test
+https://harfang.app/u/qatest47017.test
+https://harfang.app/u/qatest47117.test
+https://harfang.app/u/qatest47417.test
+https://harfang.app/u/qatest63517.test
+https://harfang.app/u/qatest47317.test
+https://harfang.app/u/qatest63617.test
