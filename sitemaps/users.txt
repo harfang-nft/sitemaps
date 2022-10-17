@@ -19598,3 +19598,8 @@ https://harfang.app/u/qatest18917.test
 https://harfang.app/u/qatest49717.test
 https://harfang.app/u/qatest12917.test
 https://harfang.app/u/qatest43217.test
+https://harfang.app/u/souleigh.test
+https://harfang.app/u/qatest94417.test
+https://harfang.app/u/qatest13717.test
+https://harfang.app/u/qatest94517.test
+https://harfang.app/u/qatest13617.test
