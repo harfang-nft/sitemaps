@@ -19708,3 +19708,7 @@ https://harfang.app/u/qatest12418.test
 https://harfang.app/u/qatest29418.test
 https://harfang.app/u/charlieb.test
 https://harfang.app/u/horusr.test
+https://harfang.app/u/qatest84718.test
+https://harfang.app/u/qatest84918.test
+https://harfang.app/u/qatest84818.test
+https://harfang.app/u/qatest89618.test
