@@ -19681,3 +19681,14 @@ https://harfang.app/u/qatest3418.test
 https://harfang.app/u/qatest3018.test
 https://harfang.app/u/qatest8518.test
 https://harfang.app/u/jacky1.test
+https://harfang.app/u/qatest13018.test
+https://harfang.app/u/qatest13118.test
+https://harfang.app/u/qatest34218.test
+https://harfang.app/u/qatest34418.test
+https://harfang.app/u/qatest34318.test
+https://harfang.app/u/qatest41818.test
+https://harfang.app/u/qatest34518.test
+https://harfang.app/u/qatest47718.test
+https://harfang.app/u/qatest34718.test
+https://harfang.app/u/qatest32518.test
+https://harfang.app/u/lensgo1.test
