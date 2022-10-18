@@ -19612,3 +19612,4 @@ https://harfang.app/u/qatest47317.test
 https://harfang.app/u/qatest63617.test
 https://harfang.app/u/krolik.test
 https://harfang.app/u/temp_bbot_1.test
+https://harfang.app/u/fuxiangyu.test
