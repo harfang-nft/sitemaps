@@ -19660,3 +19660,8 @@ https://harfang.app/u/qatest94918.test
 https://harfang.app/u/qatest82718.test
 https://harfang.app/u/1666090326013.test
 https://harfang.app/u/dftest.test
+https://harfang.app/u/qatest38418.test
+https://harfang.app/u/qatest30518.test
+https://harfang.app/u/qatest30318.test
+https://harfang.app/u/dftest12345.test
+https://harfang.app/u/metatxns.test
