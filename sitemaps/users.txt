@@ -19692,3 +19692,9 @@ https://harfang.app/u/qatest47718.test
 https://harfang.app/u/qatest34718.test
 https://harfang.app/u/qatest32518.test
 https://harfang.app/u/lensgo1.test
+https://harfang.app/u/qatest94318.test
+https://harfang.app/u/qatest40218.test
+https://harfang.app/u/qatest28118.test
+https://harfang.app/u/qatest67018.test
+https://harfang.app/u/qatest52718.test
+https://harfang.app/u/qatest84418.test
