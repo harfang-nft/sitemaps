@@ -19775,3 +19775,11 @@ https://harfang.app/u/demo_bbot_runtron84_624.test
 https://harfang.app/u/ranechen.test
 https://harfang.app/u/lensxmpt.test
 https://harfang.app/u/gmlens.test
+https://harfang.app/u/qatest1120.test
+https://harfang.app/u/qatest70920.test
+https://harfang.app/u/qatest1220.test
+https://harfang.app/u/qatest1320.test
+https://harfang.app/u/qatest38020.test
+https://harfang.app/u/qatest38120.test
+https://harfang.app/u/qatest36920.test
+https://harfang.app/u/qatest41820.test
