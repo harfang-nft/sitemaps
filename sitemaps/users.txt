@@ -19770,3 +19770,5 @@ https://harfang.app/u/qatest48019.test
 https://harfang.app/u/qatest48319.test
 https://harfang.app/u/qatest47519.test
 https://harfang.app/u/artemius123.test
+https://harfang.app/u/temp22_bbot_runtron84_624.test
+https://harfang.app/u/demo_bbot_runtron84_624.test
